@@ -35,5 +35,5 @@ The sources for the docs can be found in the [`docs.md`](./Assets/Codecks_io/Cod
 To create a PDF you need node v14+ installed on your machine. Run this command from the [`Documentation`](./Assets/Codecks_io/Codecks%20Bug%20%26%20Feedback%20Reporter/Documentation/) folder:
 
 ```sh
-cat ./docs.md | npx md-to-pdf --basedir ./docs > ./Codecks\ Unity\ Plugin\ Manual.pdf
+cat ./docs.md | npx md-to-pdf > ./Codecks\ Unity\ Plugin\ Manual.pdf
 ```
