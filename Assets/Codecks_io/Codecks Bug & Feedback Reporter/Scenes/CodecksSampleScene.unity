@@ -1962,7 +1962,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 514c8a2cb4815af4e95c07010e982894, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  codecksURL: https://api.stage.codecks.dev/user-report/v1/create-report
+  codecksURL: https://api.codecks.io/user-report/v1/create-report
   defaultToken: 
 --- !u!1 &957680707
 GameObject:
