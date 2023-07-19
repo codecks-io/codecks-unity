@@ -1,5 +1,7 @@
 # Codecks Bug & Feedback Reporter for Unity
 
+Collect bugs and feedback right from your Unity game and keep players in the loop what happens with their feedback.
+
 ## Documentation
 
 For the complete picture head to the [Codecks Manual Page](https://manual.codecks.io/user-reports/).
